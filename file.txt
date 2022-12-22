@@ -1,4 +1,8 @@
 abcd
 efgh
+<<<<<<< HEAD
 xyyz
+=======
+ijkl
+>>>>>>> 041876bad77ac870b87c3837e4bee95d0a2daca2
 
